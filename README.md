@@ -1,6 +1,6 @@
 # ITrieval
 
-Improved Vector & Keyword retrieval system aiming to be called with LLM RAG system. 
+Improved dense & sparse multi-modal retrieval system built to be a versatile component of LLM RAG system. 
 
 Courtesy of the [Intern Studio Training Camp](https://github.com/InternLM/Tutorial).
 
