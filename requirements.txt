@@ -1,3 +1,4 @@
+pyautogen
 transformers
 python-terrier
 gradio==4.29.0
