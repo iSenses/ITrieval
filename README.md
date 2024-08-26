@@ -1,6 +1,9 @@
 # ITrieval
 
 Improved dense & sparse multi-modal retrieval system built to be a versatile component of LLM RAG system. 
+![System Stucture](sys.drawio.png)
+
+
 ![image](https://github.com/user-attachments/assets/97032207-171e-4c26-8b06-c0d96516635e)
 
 
