@@ -1,11 +1,17 @@
 # ITrieval
 
-Improved dense & sparse multi-modal retrieval system built to be a versatile component of LLM RAG system. 
+
+
+Improved dense & sparse multi-modal retrieval system built to be a versatile component of LLM RAG system.
 ![image](https://github.com/user-attachments/assets/97032207-171e-4c26-8b06-c0d96516635e)
 
-
+ 
+Life information with memory and planning
+![image](./calendar.png) ![image](./4a.png)
 
 Courtesy of the [Intern Studio Training Camp](https://github.com/InternLM/Tutorial).
+
+
 
 <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/6445306bc525660aa2099ecc/ipmEgm86UIby2q5q7NkKm.jpeg" />
 
