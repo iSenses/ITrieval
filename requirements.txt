@@ -4,3 +4,4 @@ llama-index
 duckdb
 lancedb
 gradio==4.29.0
+tokencost
