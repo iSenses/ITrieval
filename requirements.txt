@@ -5,3 +5,6 @@ duckdb
 lancedb
 gradio==4.29.0
 tokencost
+streamlit
+streamlit-calendar
+streamlit-chat
